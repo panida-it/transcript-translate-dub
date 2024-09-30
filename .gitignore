@@ -1,0 +1,7 @@
+.venv/
+output_audio.wav
+transcript.txt
+translated_transcript.txt
+indonesian_dubbed_audio.wav
+sped_up_audio.wav
+output_video_with_dub.mp4
